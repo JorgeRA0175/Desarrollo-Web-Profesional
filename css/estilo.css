@@ -1,0 +1,28 @@
+#navegacion{
+    background-color: aquamarine;
+    margin-top: 30px;
+}
+#navegacion ul{
+    list-style: none;
+}
+
+#navegacion ul li{
+    display:inline-block;
+    padding: 10px;
+    font-family:fantasy;
+    font-size: 150%;
+    
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: 'Courgette', cursive;
+}
+
+.paginacion{
+    font-size: 9px;
+}
+
+
