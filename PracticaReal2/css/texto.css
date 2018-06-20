@@ -1,0 +1,92 @@
+#navegacion{
+    background-color: aquamarine;
+    margin-top: 30px;
+    
+}
+#navegacion ul{
+    list-style: none;
+}
+
+#navegacion ul li{
+    display:inline-block;
+    padding: 10px;
+    font-family:fantasy;
+    font-size: 150%;
+    font-style: normal;
+    text-transform: uppercase;
+    height: 20px;    
+}
+#navegacion ul li a{
+    display:inline-block;
+    padding: 5px;
+    font-family:fantasy;
+    font-size: 100%;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-indent:70px;
+    
+}
+header{
+    background: orange;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+p{
+    font-family: sans-serif;
+    text-transform: unset;
+    font-variant-caps: all-petite-caps;
+    line-height: 20px;
+    text-indent: 100px;
+}
+p.oferta span{
+    text-decoration: line-through;
+}
+
+h2{
+    font-family: 'Courgette', cursive;
+}
+
+.paginacion{
+    font-size: 9px;
+    background-color:red;
+}
+/*estilos en el body*/
+body{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+div.oferta{
+    height: 80px;
+    background-color: dimgrey; 
+}
+/*alineamos verticalmente el h2 con line weight*/
+div.oferta h2{
+    line-height: 80px;
+    text-align: center;
+    letter-spacing: 10px;
+    text-indent:300px;
+
+}
+
+div.Encabezado_Principal{
+    background:white;
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: auto;
+}
+table{
+    background-color: aquamarine;
+    
+}
+caption{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-transform: uppercase;
+    background-color:cadetblue;
+
+
+}
